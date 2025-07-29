@@ -8,3 +8,4 @@
 
 # Dispositivos autorizados:
 # 6DBAC546
+6DBAC546
