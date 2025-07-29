@@ -1,0 +1,10 @@
+# Lista de dispositivos autorizados para o Checklist Veicular
+# Adicione um ID de dispositivo por linha
+# Linhas começadas com # são comentários
+
+# Exemplo de IDs de dispositivo:
+# ABC123DEF456
+# XYZ789UVW012
+
+# Dispositivos autorizados:
+
