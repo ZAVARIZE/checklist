@@ -9,5 +9,6 @@
 # Dispositivos autorizados:
 # 6DBAC546
 # 59DB54AD
+# 3A6632BE
 6DBAC546
 59DB54AD
